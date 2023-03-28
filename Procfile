@@ -1,0 +1,1 @@
+web: gunicorn api_blog_python:app
